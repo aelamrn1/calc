@@ -1,0 +1,7 @@
+%s %r
+
+--version information--
+software: %s
+version: %r
+creator: %s
+%s

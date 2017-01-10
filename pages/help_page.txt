@@ -1,0 +1,14 @@
+%s %r
+
+--help--------------------------------------------------------------------------------
+AC clears the calculator.
+RN produces a random integer between two integers of your choosing.
+/ is used for division
+* is used for multiplication
+- is used for subtraction
++ is used for addition
+= is used retrieve the answer to a sum
+
+type 'version info' to find information on the current version of calc.py
+type 'calc' to go back to calculator
+%s
