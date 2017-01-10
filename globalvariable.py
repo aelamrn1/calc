@@ -6,3 +6,5 @@ creator = "aelamrn1"
 # global variables
 ukn = "unknown command"
 result = 0
+prompttext = "enter a command"
+prompt = "> "
