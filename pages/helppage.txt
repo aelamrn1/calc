@@ -9,6 +9,6 @@ RN produces a random integer between two integers of your choosing.
 + is used for addition
 = is used retrieve the answer to a sum
 
-type 'version info' to find information on the current version of calc.py
+type 'version info' to find information on the current version of %s
 type 'calc' to go back to calculator
 %s
