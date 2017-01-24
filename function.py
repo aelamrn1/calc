@@ -5,13 +5,13 @@ import os
 import globalvariable as v
 from random import randint
 
-w = open("worksheet.txt", "r+")
+commands = ["calc", "help", "version info", "RN", "AC", "/", "*", "-", "+",
+            "qudr", "=", "quit"]
 
 # define arg1 line function
 def main(arg1):
     # check for unknown arg1s
-    while arg1 not in ("calc", "help", "version info", "RN", "AC",
-                       "/", "*", "-", "+", "=", "quit"):
+    while arg1 not in commands[0:10]:
         print v.ukn
         arg1 = raw_input(v.prompt)
     # check for calc arg1
